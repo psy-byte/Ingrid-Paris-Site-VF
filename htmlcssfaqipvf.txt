@@ -71,16 +71,20 @@
             margin-bottom: 30px;
         }
 
-        h3 {
+        .faq-item {
+            margin-bottom: 30px;
+        }
+
+        .faq-question {
             font-family: 'Cormorant Garamond', serif;
             font-size: 1.5em;
             color: #502c3e;
-            margin-top: 30px;
-            margin-bottom: 15px;
+            font-weight: 600;
+            margin-bottom: 10px;
         }
 
-        p, ul {
-            margin-bottom: 15px;
+        .faq-answer {
+            margin-left: 20px;
         }
 
         footer {
@@ -103,23 +107,75 @@
     <div class="content">
         <h2>Foire Aux Questions</h2>
 
-        <h3>Quels types de massages proposez-vous ?</h3>
-        <p>Nous proposons une variété de massages incluant le massage californien, suédois, et lomi-lomi. Consultez notre page de services pour plus de détails.</p>
+        <div class="faq-item">
+            <div class="faq-question">Quels types de massages proposez-vous ?</div>
+            <div class="faq-answer">Nous proposons une variété de massages incluant le massage californien, suédois, et lomi-lomi. Consultez notre page de services pour plus de détails.</div>
+        </div>
 
-        <h3>Faut-il prendre rendez-vous à l'avance ?</h3>
-        <p>Oui, il est recommandé de prendre rendez-vous au moins 24 heures à l'avance pour garantir la disponibilité.</p>
+        <div class="faq-item">
+            <div class="faq-question">Faut-il prendre rendez-vous à l'avance ?</div>
+            <div class="faq-answer">Oui, il est recommandé de prendre rendez-vous au moins 24 heures à l'avance pour garantir la disponibilité.</div>
+        </div>
 
-        <h3>Comment puis-je réserver un massage ?</h3>
-        <p>Vous pouvez réserver en ligne via notre site web ou en nous appelant directement.</p>
+        <div class="faq-item">
+            <div class="faq-question">Comment puis-je réserver un massage ?</div>
+            <div class="faq-answer">Vous pouvez réserver en ligne via notre site web ou en nous appelant directement.</div>
+        </div>
 
-        <h3>Quelle est votre politique d'annulation ?</h3>
-        <p>Notre politique d'annulation permet une annulation sans frais jusqu'à 24 heures avant le rendez-vous. Pour plus de détails, consultez nos conditions générales de vente.</p>
+        <div class="faq-item">
+            <div class="faq-question">Quelle est votre politique d'annulation ?</div>
+            <div class="faq-answer">Notre politique d'annulation permet une annulation sans frais jusqu'à 24 heures avant le rendez-vous. Pour plus de détails, consultez nos conditions générales de vente.</div>
+        </div>
 
-        <h3>Dois-je me déshabiller complètement ?</h3>
-        <p>Vous pouvez vous déshabiller au niveau qui vous convient. Vous serez toujours correctement drapé pendant le massage.</p>
+        <div class="faq-item">
+            <div class="faq-question">Dois-je me déshabiller complètement ?</div>
+            <div class="faq-answer">Vous pouvez vous déshabiller au niveau qui vous convient. Vous serez toujours correctement drapé pendant le massage.</div>
+        </div>
 
-        <h3>Puis-je choisir la pression du massage ?</h3>
-        <p>Absolument. N'hésitez pas à communiquer vos préférences à votre masseuse avant et pendant le massage.</p>
+        <div class="faq-item">
+            <div class="faq-question">Puis-je choisir la pression du massage ?</div>
+            <div class="faq-answer">Absolument. N'hésitez pas à communiquer vos préférences à votre masseuse avant et pendant le massage.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Comment fonctionne le service de réservation en ligne ?</div>
+            <div class="faq-answer">Notre service de réservation en ligne vous permet de choisir le type de prestation, la date, l'heure et le lieu qui vous conviennent. Une fois votre choix effectué, vous recevrez une confirmation par email et SMS.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Quels types de prestations proposez-vous ?</div>
+            <div class="faq-answer">Nous proposons une variété de services de beauté et de bien-être à domicile, incluant des massages, des soins du visage, des manucures, des pédicures, et plus encore. Consultez notre site pour la liste complète des prestations disponibles.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Les praticiennes sont-elles qualifiées ?</div>
+            <div class="faq-answer">Oui, toutes nos praticiennes sont des professionnelles qualifiées et expérimentées dans leur domaine. Elles sont soigneusement sélectionnées et formées pour offrir des services de haute qualité à domicile.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Puis-je choisir ma praticienne ?</div>
+            <div class="faq-answer">Notre système attribue automatiquement la praticienne la plus proche et disponible pour votre réservation. Cependant, si vous avez une préférence pour une praticienne en particulier, vous pouvez le mentionner dans les commentaires lors de votre réservation et nous ferons de notre mieux pour satisfaire votre demande.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Comment puis-je payer pour les services ?</div>
+            <div class="faq-answer">Le paiement se fait en ligne au moment de la réservation via notre système de paiement sécurisé. Nous acceptons les principales cartes de crédit et de débit.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Que dois-je préparer pour ma séance à domicile ?</div>
+            <div class="faq-answer">Pour une séance optimale, assurez-vous d'avoir un espace calme et propre. Pour les massages, préparez une serviette propre et une surface plane (comme un lit ou une table de massage si vous en avez une). Pour les autres soins, la praticienne apportera tout le matériel nécessaire.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Proposez-vous des forfaits ou des abonnements ?</div>
+            <div class="faq-answer">Oui, nous proposons différents forfaits et abonnements qui peuvent vous faire bénéficier de tarifs avantageux. Consultez notre page de tarifs pour plus d'informations sur nos offres actuelles.</div>
+        </div>
+
+        <div class="faq-item">
+            <div class="faq-question">Comment puis-je contacter le service client ?</div>
+            <div class="faq-answer">Vous pouvez nous contacter par email à contact@ingrid-paris.com ou par téléphone au numéro indiqué sur notre site. Notre équipe de support est disponible du lundi au vendredi de 9h à 18h pour répondre à toutes vos questions.</div>
+        </div>
     </div>
 
     <footer>
