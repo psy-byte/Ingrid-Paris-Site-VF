@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conditions Générales de Vente - Ingrid Paris</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Montserrat:wght@200;300;400;500&display=swap');
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-image: url("https://github.com/psy-byte/IC-V3/blob/main/dark.jpg?raw=true");
+      background-size: cover;
+      background-position: center;
+      height: 20vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+      color: white;
+      position: relative;
+    }
+
+    .header::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .header-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.5em;
+      font-weight: 300;
+      margin: 0;
+    }
+
+    .slogan {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 200;
+      font-style: italic;
+    }
+
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2em;
+      color: #502c3e;
+      margin-bottom: 30px;
+    }
+
+    h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5em;
+      color: #502c3e;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p,
+    ul {
+      margin-bottom: 15px;
+    }
+
+    footer {
+      background-color: #502c3e;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <div class="header-content">
+      <h1>INGRID PARIS</h1>
+      <p class="slogan">Une femme élégante est une femme détendue...</p>
+    </div>
+  </div>
+
+  <div class="content">
+    <h2>Conditions Générales de Vente</h2>
+
+    <h3>1. Champ d'application</h3>
+    <p>Les présentes conditions générales et de vente s'appliquent, sans restriction ni réserve à toute utilisation de la plateforme de réservation accessible sur le Site internet www.ingrid-paris.com (ci-après « le Site »), pour la réservation et l'achat de Prestations de loisirs sur le thème de la beauté et du bien-être (ci-après « le Service » ou « les Services ») proposés par Ingrid Paris et effectués par des tiers professionnels référencés (ci-après « les praticiennes du réseau Ingrid Paris ») à destination de clients non professionnels (ci-après « Les Utilisateurs » ou « l'Utilisateur »).</p>
+    <p>Les caractéristiques principales des Services sont présentées sur le Site internet www.ingrid-paris.com. L'Utilisateur est tenu de prendre connaissance des Conditions Générales d'Utilisation et de Vente avant toute passation de commande. Le choix et l'achat d'un Service est de la seule responsabilité de l'Utilisateur.</p>
+
+    <h3>2. Présentation du Site et des Services fournis</h3>
+    <p>Le Site www.ingrid-paris.com permet à un Utilisateur, préalablement inscrit/enregistré, de réserver et de payer en ligne des prestations de service liées à la beauté et au bien-être, réalisées par des praticiennes indépendantes du réseau Ingrid Paris, sélectionnées par Ingrid Paris.</p>
+    <p>Le Service permet à l'Utilisateur d'envoyer une demande de rendez-vous pour une prestation déterminée qui sera réalisée par une praticienne partenaire suivant un lieu, une date et une heure de rendez-vous, choisi par l'Utilisateur en fonction de la disponibilité affichée sur le Site.</p>
+    <p>Ingrid Paris concentre ses efforts pour proposer à l'Utilisateur une praticienne, en fonction de la nature des prestations commandées, de la disponibilité et la proximité de l'adresse indiquée par l'Utilisateur pour le rendez-vous.</p>
+    <p>Dès que la praticienne accepte la demande, Ingrid Paris avertit immédiatement l'Utilisateur (par mail et par SMS selon les données communiquées par l'Utilisateur) pour lui confirmer le rendez-vous.</p>
+    <p>Pour éviter toute ambiguïté, Ingrid Paris n'est pas un artisan de la beauté ni un institut de beauté. Ingrid Paris est un intermédiaire qui propose à des Utilisateurs une offre de prestations de services réalisée par des praticiennes de ces services. Ainsi, Ingrid Paris n'est nullement partie au contrat né entre l'Utilisateur et la praticienne indépendante.</p>
+
+    <h3>3. Information précontractuelle – Acceptation des CGU/CGV</h3>
+    <p>L'Utilisateur reconnait avoir eu communication, préalablement à son inscription sur le Site et avant la passation de sa commande, d'une manière lisible et compréhensible, des présentes Conditions Générales d'Utilisation et de Vente ainsi que de toutes les informations et renseignements visés aux articles L111-1 à L111-7 du code de la consommation, et en particulier :</p>
+    <ul>
+      <li>les caractéristiques essentielles des services, compte tenu du support de communication utilisé et de la prestation concernée ;</li>
+      <li>le prix des prestations proposées et éventuels suppléments;</li>
+      <li>en l'absence d'exécution immédiate du contrat, de la date ou du délai auquel la praticienne s'engage à réaliser la prestation ;</li>
+      <li>les informations relatives à l'identité de la Plateforme Ingrid Paris, à ses coordonnées postales, téléphoniques et électroniques, et à ses activités, si elles ne ressortent pas du contexte,</li>
+      <li>les fonctionnalités du contenu numérique et, le cas échéant, à son interopérabilité,</li>
+      <li>la possibilité de recourir à une médiation conventionnelle en cas de litige ;</li>
+      <li>les informations relatives à l'absence de droit de rétractation, aux modalités de résiliation et autres conditions contractuelles importantes.</li>
+    </ul>
+    <p>Le fait pour une personne physique (ou morale), de s'inscrire au Service en créant un Compte Utilisateur et de réserver et payer en ligne sur le Site internet www.ingrid-paris.com emporte adhésion et acceptation pleine et entière des présentes Conditions Générales d'Utilisation et de Vente, ce qui est expressément reconnu par l'Utilisateur, qui renonce, notamment, à se prévaloir de tout document contradictoire, qui serait inopposable à Ingrid Paris.</p>
+
+    <h3>4. Accès aux Services</h3>
+    <p>Les Services sont accessibles par le biais de l'utilisation du Site mis à disposition gratuitement par Ingrid Paris, et par contact direct auprès du service de prestations Sur-mesure accessible sur le Site.</p>
+    <p>Pour accéder aux Services, l'Utilisateur doit impérativement passer par l'un des deux accès proposés, seuls moyens autorisés par Ingrid Paris.</p>
+    <p>L'accès au Site est libre et gratuit à tout Utilisateur disposant d'un accès à internet. Tous les coûts afférents à l'accès, que ce soit les frais matériels, logiciels ou d'accès à internet sont exclusivement à la charge de l'Utilisateur. Il est seul responsable du bon fonctionnement de son équipement informatique ainsi que de son accès à internet. Le Site est accessible 24h/24 et 7 jours/7. Toutefois, Ingrid Paris se réserve le droit, sans préavis, ni indemnité, de fermer temporairement ou définitivement le Site, l'accès à un ou plusieurs Services à distance notamment pour effectuer une mise à jour, des opérations de maintenance, des modifications ou changements sur les méthodes opérationnelles, les serveurs, sans que cette liste ne soit limitative. Ingrid Paris se réserve également le droit de compléter, de modifier ou de supprimer, à tout moment le contenu de la plate-forme et/ou un ou plusieurs Services qui y sont disponibles en fonction notamment de l'évolution de la technologie.</p>
+
+    <h3>5. Création d'un compte utilisateur</h3>
+    <p>Pour pouvoir accéder à la réservation des Services proposés par Ingrid Paris (réservation et commande d'une prestation), l'Utilisateur doit procéder à la création d'un compte personnel dit « Compte Utilisateur ».</p>
+    <p>L'ouverture d'un Compte Utilisateur est réservée aux personnes majeures, disposant d'une pleine capacité juridique. Un mineur n'est pas autorisé à s'inscrire.</p>
+    <p>L'Utilisateur doit remplir le formulaire d'ouverture de compte (nom, prénom, adresse et numéro de téléphone) et renseigner un email valide et un mot de passe permettant de sécuriser la connexion à son compte personnel.</p>
+    <p>Les identifiants de connexion sont confidentiels et ne doivent pas être communiqués par l'Utilisateur à des tiers. L'Utilisateur en assure seul la confidentialité et sera, en toutes circonstances, seul responsable de leur utilisation. Ingrid Paris se réserve le droit, pour des raisons techniques et/ou de sécurité, de modifier, radier unilatéralement et sans préavis les codes identifiants d'un Utilisateur après l'en avoir averti.</p>
+    <p>La création du Compte Utilisateur ne pourra être validée qu'à la suite de l'acceptation expresse des présentes Conditions Générales d'Utilisation et de Vente par l'Utilisateur, qui reconnaîtra par là-même en avoir pris connaissance et les accepter sans réserve. Une fois le Compte Utilisateur créé, le client pourra réserver un rendez-vous, compléter les informations personnelles le concernant et payer sur le Site des prestations proposées et réalisées par des praticiennes indépendantes.</p>
+
+    <h3>6. Commande/réservation de prestations</h3>
+    <p>Pour effectuer une réservation de prestation, l'Utilisateur doit préalablement s'assurer qu'il est éligible au périmètre géographique couvert par le Service.</p>
+    <p>L'Utilisateur choisit parmi les prestations présentées en temps réel sur le Site au jour de la commande. A cette étape, l'Utilisateur reconnaît avoir pris connaissance de la nature, de la destination et des modalités de réalisation de la prestation présentée sur le Site et, le cas échéant, avoir sollicité et obtenu des informations nécessaires et/ou complémentaires pour passer sa commande en parfaite connaissance de cause. L'Utilisateur est seul responsable de son choix d'activités et de leur adéquation à ses besoins, de telle sorte que la responsabilité d'Ingrid Paris ne peut être recherchée à cet égard.</p>
+    <p>Afin de procéder à la réservation de la prestation, Ingrid Paris donne accès aux disponibilités des praticiennes partenaires en temps réel et suivant le secteur géographique concerné. L'Utilisateur peut ainsi sélectionner le jour et l'heure qui lui convient pour la prestation demandée.</p>
+    <p>L'Utilisateur devra ensuite compléter les informations personnelles liées à sa réservation : le nom, le prénom, le numéro de téléphone mobile et l'adresse de la personne recevant les prestations de la praticienne.</p>
+    <p>L'Utilisateur garantit que les informations communiquées à Ingrid Paris sont exactes et complètes. Ingrid Paris peut à tout moment vérifier lesdites informations et refuser l'accès au Service sans devoir motiver sa décision.</p>
+    <p>L'Utilisateur accepte que ses données à caractère personnel (nom, prénom, téléphone, adresse et informations complémentaires sur les accès au lieu de rendez-vous) soient communiquées à la praticienne réservée pour la prestation.</p>
+    <p>Il appartient à l'Utilisateur de sélectionner sur le Site la prestation de service qu'il souhaite réserver. Il valide ensuite le détail et le prix total de sa commande.</p>
+    <p>Tant que sa réservation n'est pas confirmée par Ingrid Paris, l'Utilisateur peut la modifier ou l'annuler à sa convenance.</p>
+    <p>Après validation de sa réservation, l'Utilisateur reçoit par email un accusé de réception de la demande auprès d'Ingrid Paris et un SMS l'informant de l'envoi de cet email. Ingrid Paris invite l'Utilisateur à consulter sa messagerie électronique pour s'assurer que les coordonnées qu'il a communiquées lors de sa commande sont correctes. Dans l'hypothèse où l'Utilisateur ne recevrait pas cet email, il lui incombe de contacter Ingrid Paris. L'email peut se trouver dans les spams de l'Utilisateur.</p>
+    <p>En aucun cas la responsabilité d'Ingrid Paris ne pourra être retenue si l'Utilisateur ne reçoit pas d'email d'Ingrid Paris en raison d'une erreur de son fait dans la saisie de ses coordonnées ou d'un problème de serveur de sa messagerie personnelle.</p>
+    <p>En cas d'impossibilité de respecter la date de réservation proposée sur le Site, Ingrid Paris s'engage à en informer le Client dans les meilleurs délais par téléphone, mail ou courrier.</p>
+    <p>L'Utilisateur pourra ajouter toute prestation à réaliser par la praticienne lors de sa venue, dans la limite des possibilités d'agenda de celle-ci. L'Utilisateur s'engage à payer la prestation supplémentaire effectivement réalisée à sa demande par la praticienne et autorise en conséquence le paiement de la prestation via le moyen de paiement renseigné pour sa commande initiale.</p>
+
+    <h3>7. Tarifs et paiement</h3>
+    <p>Les tarifs des prestations proposées sont ceux valables au jour de la réservation et de la commande sur le Site, à l'exception des demandes sur mesure formulées par le client auprès du Service de prestations Sur-Mesure.</p>
+    <p>Ces tarifs sont des forfaits exprimés en euros Toutes Taxes Comprises. Ils comprennent les frais de matériel et de déplacement des praticiennes Ingrid Paris sur le lieu de rendez-vous indiqué par l'Utilisateur et les services de la société Ingrid Paris.</p>
+    <p>Les tarifs sont susceptibles de modifications, ils peuvent être modifiés ou actualisés par Ingrid Paris à tout moment. Il appartient à l'Utilisateur de rester informé des tarifs en vigueur au moment de sa réservation et de la passation de sa commande.</p>
+    <p>La réservation d'une prestation sur le Site emporte engagement ferme et définitif du paiement de la prestation par l'Utilisateur, conformément aux présentes Conditions Générales d'Utilisation et de Vente, qu'il aura préalablement lues et acceptées.</p>
+    <p>Pour effectuer le règlement des prestations réservées et commandées, y compris les taxes et les pénalités de retard ou frais d'annulation éventuels, l'Utilisateur reconnait qu'Ingrid Paris peut donner l'ordre de débiter le compte lié au numéro de la carte de crédit qui a été communiquée à son partenaire de service de paiement sécurisé (voir article suivant) pour activer son compte client.</p>
+    <p>Lors de l'exécution des prestations par la praticienne, l'Utilisateur peut solliciter la réalisation de prestations complémentaires et autorise alors Ingrid Paris à débiter le compte bancaire lié à la carte bancaire renseignée pour le paiement des prestations initiales.</p>
+    <p>L'Utilisateur est responsable du paiement des sommes dues en vertu de chaque prestation réalisée par les praticiennes sollicitées.</p>
+    <p>L'encaissement de commande (le débit de la carte bancaire) n'interviendra qu'une fois la prestation effectivement réalisée. Un reçu attestant du paiement précité est transmis à l'Utilisateur. Pour l'émission d'une facture de la prestation réalisée, l'Utilisateur peut en faire la demande auprès d'Ingrid Paris contact@ingrid-paris.com.</p>
+    <p>Dans l'hypothèse d'une annulation tardive (voir article 13) de la prestation par l'Utilisateur, ce dernier reconnait que le prix de la prestation sera dû en totalité et qu'il ne pourra s'opposer à son paiement.</p>
+    <p>Ingrid Paris se réserve le droit de suspendre toute réservation d'un Utilisateur avec lequel il existerait un litige relatif au paiement d'une réservation antérieure, dans l'attente du règlement de cette commande préalable, et ce quel que soit le mode de paiement.</p>
+    <p>Ingrid Paris collecte le paiement des prestations et les reverse aux praticiennes, déduction faite de la commission conclue avec elles.</p>
+
+    <h3>8. Paiement sécurisé</h3>
+    <p>Ingrid Paris utilise un système de paiement sécurisé tiers ("le système de paiement" STRIPE). Le traitement des paiements ou des crédits éventuels découlant de l'utilisation du Site et du service sera régi par les conditions et la politique de confidentialité du système de paiement partenaire d'Ingrid Paris et par les conditions de l'émetteur de la carte de crédit de l'Utilisateur. Ingrid Paris décline toute responsabilité en cas d'erreur due au système de paiement.</p>
+    <p>Les conditions générales d'utilisation du système de paiement STRIPE peuvent être consultées via ce lien.</p>
+
+    <h3>9. Politique de gestion des données personnelles</h3>
+    <p>L'Utilisateur ayant créé un Compte Utilisateur est informé que la collecte de ses données à caractère personnel est nécessaire à la commande des prestations auprès d'Ingrid Paris qui seront réalisées par les praticiennes. Ces données à caractère personnel sont récoltées uniquement pour l'exécution des commandes de prestations, le suivi client ainsi que le respect des obligations comptables, sociales et fiscales d'Ingrid Paris.</p>
+
+    <h3>10. Exécution de la prestation</h3>
+    <p>Ingrid Paris agissant seulement en tant qu'intermédiaire, sa responsabilité se limite à la réservation d'une prestation pour une date, un horaire et un lieu déterminé. L'exécution de la prestation de beauté et de bien-être est placée sous l'entière responsabilité de la praticienne qui exécute ladite prestation et du contrat tacitement conclu avec l'Utilisateur auquel Ingrid Paris n'est nullement partie.</p>
+    <p>Dans le cadre de sa relation avec l'Utilisateur, la praticienne est tenue d'exécuter sa prestation conformément aux usages de sa profession et toute prestation de beauté et de bien-être à domicile.</p>
+    <p>L'Utilisateur s'engage à respecter les règles de ponctualité et à permettre la mise en œuvre efficiente de la prestation notamment en donnant accès à une prise électrique, de l'eau, de la lumière, chaise et table pour permettre à la praticienne de disposer des conditions propices à l'exécution d'une prestation de beauté et de bien-être à domicile dans un temps imparti. Dans le cas où l'Utilisateur ne serait pas en mesure de fournir ces dispositions à la praticienne, il devra subir les conséquences de l'impossibilité pour la praticienne de réaliser la ou les prestations commandées, sans pouvoir en solliciter le remboursement ou une quelconque réduction de prix.</p>
+    <p>L'Utilisateur s'engage également à informer la praticienne de toute allergie connue dont il souffrirait ou de toute contre-indication à l'égard de certaines substances ou produits que pourrait utiliser la praticienne. En cas de grossesse, il est préférable de demander l'avis de son médecin ou de la praticienne réservée qui pourra refuser de réaliser la prestation.</p>
+    <p>La prestation fournie par la praticienne sera considérée comme régulièrement et pleinement exécutée si l'utilisateur ne fait pas part des difficultés rencontrées ou des réserves immédiatement après la réalisation de la prestation. En outre l'Utilisateur devra avertir sans délai Ingrid Paris de tout manquement caractérisé de la praticienne intervenue.</p>
+    <p>Respect des règles sanitaires/gestes barrière en période de pandémie/d'épidémie: la praticienne intervenante s'engage à porter un masque de protection pendant toute la durée de la prestation. Si la praticienne ne dispose pas de masque ou refuse d'en porter, la prestation sera annulée sans être facturée par Ingrid Paris.</p>
+    <p>Responsabilité en cas de litige: Ingrid Paris s'engage à tout mettre en œuvre pour permettre la résolution des litiges client sous un mois à compter du jour où le litige a été porté à sa connaissance. L'Utilisateur peut à tout moment adresser une réclamation par courrier (au siège social d'Ingrid Paris) ou par courrier électronique à l'adresse contact@ingrid-paris.com.</p>
+    <p>Ingrid Paris fera son possible pour transmettre toute réclamation ou demande de dédommagement à l'égard de la praticienne, sans que cela créé une quelconque obligation à son égard. Ingrid Paris n'est aucunement contrainte de satisfaire ces demandes dans la mesure où elle est tiers au contrat et sa propre responsabilité ne saurait être engagée.</p>
+
+    <h3>11. Obligations de l'utilisateur</h3>
+    <p>L'Utilisateur s'engage à ne pas contacter ou solliciter l'intervention d'une praticienne avec laquelle il a été mis en contact par Ingrid Paris, dans les 18 mois suivants ladite mise en relation, sans utiliser le Service. A défaut, il s'engage à indemniser Ingrid Paris pour le préjudice direct et indirect subi de ce fait, avec un minimum de 500€.</p>
+    <p>L'Utilisateur s'engage à recevoir la praticienne, dans des conditions sanitaires parfaites et lui mettre à disposition un point d'eau et du savon.</p>
+    <p>L'utilisateur s'engage à ne pas répondre aux sollicitations et démarches d'une praticienne pour l'organisation d'un RDV sans utiliser le Service, et en informer Ingrid Paris si cela se produisait.</p>
+    <p>Respect des règles sanitaires/gestes barrière en période de pandémie/d'épidémie: l'Utilisateur s'engage à mettre à disposition son propre linge à la praticienne intervenante et à porter obligatoirement un masque de protection. La praticienne pourra mettre à disposition à l'Utilisateur un masque jetable si elle en dispose au tarif de 1,5€ TTC ou en tissu lavable au tarif de 8€ TTC (facturé en sus de la prestation). Si l'Utilisateur ne dispose pas de masque ou refuse d'en porter, la prestation sera annulée et facturée dans sa totalité.</p>
+
+    <h3>12. Exclusion du Droit de rétractation</h3>
+    <p>Conformément à l'article L 121-21-8, 12°) du Code de la consommation, le droit de rétractation est exclu pour toute prestation de service de loisir devant être fournie à une date ou une période déterminée.</p>
+
+    <h3>13. Annulation de la réservation</h3>
+    <p>L'utilisateur a la possibilité d'annuler sa réservation dans les conditions suivantes :</p>
+    <ul>
+      <li>Si le RDV a lieu le jour J avant 14h : Jusqu'à J-1 avant 16h : Annulation sans frais. J-1 après 16h : paiement intégral de la prestation</li>
+      <li>Si le RDV a lieu le jour J à 14h ou après 14h : Jusqu'à J-1 avant 19h : annulation sans frais. J-1 après 19h : paiement intégral de la prestation</li>
+    </ul>
+    <p>L'Utilisateur reconnaît ainsi que sa Carte bancaire sera débitée du montant de la prestation par Ingrid Paris en cas d'annulation tardive.</p>
+    <p>Dans le cas où l'utilisateur souhaiterait prendre un rendez-vous pour une prestation dans la journée même de sa réservation, il reconnait que cette réservation ne sera pas modifiable et, qu'en cas d'annulation, 100% du montant de la commande seront dus.</p>
+    <p>Les retards de l'Utilisateur ou de la praticienne sont tolérés jusqu'à 15 minutes après l'heure de rendez-vous convenu. Passé ce délai, si l'Utilisateur ou la praticienne sont en retard, ils sont libres l'un et l'autre d'accepter ou refuser le rendez-vous avec ou sans report de la prestation.</p>
+    <p>La praticienne est tenue d'informer la société Ingrid Paris de la situation afin qu'aucune pénalité d'annulation ne soit appliquée au client si le retard est du fait de la praticienne.</p>
+    <p>Dans l'hypothèse où l'annulation par l'Utilisateur serait justifiée par un motif impérieux lié à son état de santé et justifié par un document officiel (notamment certificat médical, analyse positive de recherche de COVID, attestation de décès…), Ingrid Paris pourra proposer à l'Utilisateur une annulation sans frais.</p>
+
+    <h3>14. Obligations et limite de responsabilité d'Ingrid Paris</h3>
+    <p>Ingrid Paris s'efforcera de maintenir le Site et son contenu dans un état correct et actualisé, mais ne garantit pas que ces derniers soient exempts d'erreurs, de défauts, de logiciels malveillants ou de virus, ou que le Site est correct, actualisé et exact.</p>
+    <p>Ingrid Paris ne saurait en aucun cas être tenue pour responsable d'éventuels dommages découlant de l'utilisation (ou de l'incapacité à utiliser) le Site, y compris des dommages causés par des logiciels malveillants, des virus ou par une quelconque inexactitude ou omission d'informations du Site, sauf si les dommages découlent d'un acte délibéré ou d'une grave négligence d'Ingrid Paris.</p>
+    <p>Par ailleurs, Ingrid Paris ne saurait en aucun cas être tenue pour responsable des dommages découlant de l'utilisation (ou de l'incapacité à utiliser) des moyens électroniques de communication avec le Site, notamment les dommages découlant d'un échec ou d'un retard de transmission de communications électroniques, d'une interception ou d'une manipulation de communications électroniques par des tiers ou par des programmes informatiques utilisés pour des communications électroniques et la transmission de virus.</p>
+    <p>Ingrid Paris s'engage à faire ses meilleurs efforts pour tenir sa plate-forme de réservation et les disponibilités de prise de rendez-vous à jour en temps réel, afin de permettre la confirmation des réservations sollicités par l'Utilisateur de façon systématique. A cet égard, Ingrid Paris n'est tenue qu'à une obligation de moyen, et ne peut garantir de manière irréfragable la disponibilité des plages horaires indiquées pour la prise de rendez-vous avec la praticienne indépendante.</p>
+    <p>Dans le cas où Ingrid Paris ne pourrait satisfaire une demande de réservation émise par l'utilisateur, elle en avertit ce dernier par tous moyens (par courrier électronique ou par téléphone) afin de proposer une autre date avec une praticienne, sans pour autant que cela constitue une obligation d'achat à l'égard de l'Utilisateur.</p>
+    <p>En cas d'annulation de la part de la praticienne mandatée, aucun prélèvement ne sera effectué, aucune facture ne sera adressée à l'Utilisateur. Ingrid Paris s'engage à faire ses meilleurs efforts pour apporter une solution. L'Utilisateur accepte dans ce cadre d'être contacté par Ingrid Paris afin de fixer un nouveau rendez-vous dans l'hypothèse où le rendez-vous demandé ne serait plus disponible.</p>
+
+    <h3>15. Propriété intellectuelle</h3>
+    <p>Le contenu du Site internet www.ingrid-paris.com est la propriété exclusive d'Ingrid Paris et de ses partenaires et est protégé par les lois françaises et internationales relatives à la propriété intellectuelle.</p>
+    <p>Ingrid Paris (ainsi que ses concédants, le cas échéant) détient seule tous les droits, titres et intérêts, y compris tous les droits de propriété intellectuelle liés, dans et sur le Site et le service, et les suggestions, idées, demandes d'amélioration, commentaires, recommandations et autres informations que les Utilisateurs ou toute autre partie communiquée au sujet du Site ou du Service.</p>
+    <p>Le nom, le logo et les dénominations de produits d'Ingrid Paris associés au Site et au Service sont des marques de commerce d'Ingrid Paris, et de ses partenaires. Ingrid Paris n'accorde aucun droit ou aucune licence d'utilisation de ces marques.</p>
+    <p>Ingrid Paris accorde à l'Utilisateur une licence limitée, non exclusive et incessible d'utilisation du Site qui lui permet de voir, télécharger et imprimer tout contenu d'Ingrid Paris, uniquement pour une utilisation strictement personnelle et non commerciale.</p>
+    <p>L'Utilisateur s'interdit d'utiliser, copier, adapter, modifier, créer des œuvres dérivées, distribuer, concéder sous licence, vendre, céder, afficher ou présenter en public, reproduire, transmettre, transférer sous forme de flux, diffuser ou exploiter de toute autre manière, totalement ou partiellement, à titre gratuit ou onéreux, un contenu du Site ou du Service.</p>
+    <p>Ingrid Paris peut résilier le contrat à tout moment, avec effet immédiat (en désactivant la possibilité d'utilisation du Service) :</p>
+    <ul>
+      <li>en cas de non-respect d'une des dispositions des présentes Conditions Générales d'Utilisation et de Vente ;</li>
+      <li>si Ingrid Paris estime qu'il est fait une utilisation abusive du Site ou du Service. Ingrid Paris en avertira l'Utilisateur conformément aux présentes conditions d'utilisation.</li>
+    </ul>
+
+    <h3>16. Droit applicable – Langue</h3>
+    <p>Les présentes Conditions Générales d'Utilisation et de Vente et les opérations qui en découlent sont régies et soumises au droit français.</p>
+    <p>Les présentes Conditions Générales d'Utilisation et de Vente sont rédigées en langue française. Dans le cas où elles seraient traduites en une ou plusieurs langues étrangères, seul le texte français ferait foi en cas de litige.</p>
+
+    <h3>17. Litiges</h3>
+    <p>Ingrid Paris et l'Utilisateur s'engagent à faire leurs meilleurs efforts pour trouver une issue amiable à tout litige né de l'utilisation du Site et des Services.</p>
+    <p>L'Utilisateur s'engage à porter à la connaissance d'Ingrid Paris tout litige survenu dans le cadre de l'utilisation du Site et des Services sans délai à la suite de la survenance et de transmettre à Ingrid Paris tous les éléments susceptibles de prouver ledit litige.</p>
+    <p>Tous les litiges auxquels les opérations liées à l'utilisation du Site ou du Service réalisées en application des présentes Conditions Générales d'Utilisation et de Vente pourraient donner lieu, concernant tant leur validité, leur interprétation, leur exécution, leur résiliation, leurs conséquences et leurs suites et qui n'auraient pas fait l'objet d'un règlement amiable entre Ingrid Paris et l'Utilisateur ou par médiation, seront soumis aux tribunaux compétents dans les conditions de droit commun.</p>
+    <p>L'Utilisateur est informé qu'il peut en tout état de cause recourir à une médiation conventionnelle, notamment auprès de la Commission de la médiation de la consommation (art. L 612-1 du Code de la Consommation) ou à tout mode alternatif de règlement des différends (conciliation, par exemple) en cas de contestation.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Ingrid Paris - Tous droits réservés.</p>
+  </footer>
+</body>
+
+</html>

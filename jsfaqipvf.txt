@@ -1,0 +1,42 @@
+// JavaScript spécifique pour la FAQ
+document.addEventListener("DOMContentLoaded", function () {
+  // Fonction pour filtrer les questions de la FAQ
+  function filterFAQ() {
+    var input = document.getElementById("faq-search");
+    var filter = input.value.toUpperCase();
+    var faqItems = document.querySelectorAll(".faq-item");
+
+    faqItems.forEach(function (item) {
+      var question = item.querySelector("h3").textContent;
+      if (question.toUpperCase().indexOf(filter) > -1) {
+        item.style.display = "";
+      } else {
+        item.style.display = "none";
+      }
+    });
+  }
+
+  // Créer et ajouter la barre de recherche
+  var searchBar = document.createElement("input");
+  searchBar.type = "text";
+  searchBar.id = "faq-search";
+  searchBar.placeholder = "Rechercher une question...";
+  document
+    .querySelector(".faq")
+    .insertBefore(searchBar, document.querySelector(".faq-section"));
+
+  // Ajouter l'événement de recherche
+  searchBar.addEventListener("keyup", filterFAQ);
+
+  // Fonction pour basculer l'affichage des réponses
+  function toggleAnswer() {
+    this.classList.toggle("active");
+    var answer = this.nextElementSibling;
+    answer.style.display = answer.style.display === "block" ? "none" : "block";
+  }
+
+  // Ajouter l'événement de clic à chaque question
+  document.querySelectorAll(".faq-item h3").forEach(function (question) {
+    question.addEventListener("click", toggleAnswer);
+  });
+});

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Confidentialité - Ingrid Paris</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Montserrat:wght@200;300;400;500&display=swap');
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-image: url("https://github.com/psy-byte/IC-V3/blob/main/dark.jpg?raw=true");
+      background-size: cover;
+      background-position: center;
+      height: 20vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+      color: white;
+      position: relative;
+    }
+
+    .header::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .header-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.5em;
+      font-weight: 300;
+      margin: 0;
+    }
+
+    .slogan {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 200;
+      font-style: italic;
+    }
+
+    .content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2em;
+      color: #502c3e;
+      margin-bottom: 30px;
+    }
+
+    h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5em;
+      color: #502c3e;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p,
+    ul {
+      margin-bottom: 15px;
+    }
+
+    footer {
+      background-color: #502c3e;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <div class="header-content">
+      <h1>INGRID PARIS</h1>
+      <p class="slogan">Une femme élégante est une femme détendue...</p>
+    </div>
+  </div>
+
+  <div class="content">
+    <h2>Politique de Confidentialité</h2>
+
+    <p>INGRID PARIS propose la réservation et l'achat de Prestations de loisirs sur le thème de la beauté et du bien-être (ci-après « le Service » ou « les Services ») effectués par des tiers professionnels référencés (ci-après « les Partenaires du réseau d'INGRID PARIS ») à destination de clients non professionnels (ci-après « Les Utilisateurs » ou « l'Utilisateur »).</p>
+
+    <p>Le présent document explique la manière dont INGRID PARIS collecte et traite les données personnelles qui lui sont fournies sur son site Web (www.ingrid-paris.com).</p>
+
+    <h3>Collecte des données à caractère personnel</h3>
+    <p>Les données à caractère personnel qui sont collectées lors de la commande de prestations par le Client sont les suivantes :</p>
+    <ul>
+      <li>Noms, prénoms, adresse postale, numéro de téléphone et adresse e-mail.</li>
+    </ul>
+    <p>INGRID PARIS pourra demander à l'Utilisateur, par email ou par téléphone, des informations complémentaires sur son identité (carte d'identité) et l'identité du porteur de la carte bancaire qui a servi au paiement, en fonction du montant de la commande et de l'adresse du porteur de la carte.</p>
+
+    <h3>Destinataires des données à caractère personnel</h3>
+    <p>Les données à caractère personnel sont réservées à l'usage d'INGRID PARIS, de ses préposés, de ses salariés et des Partenaires du réseau d'INGRID PARIS désignés pour réaliser les prestations commandées par l'Utilisateur.</p>
+    <p>Le responsable de traitement des données est Ingrid Colas, 198 Avenue du Maine 75014 Paris – contact@ingrid-paris.com) au sens du Règlement 2016/679 sur la protection des données à caractère personnel.</p>
+
+    <h3>Limitation du traitement</h3>
+    <p>Sauf si l'Utilisateur exprime son accord exprès, ses données à caractère personnel ne sont pas utilisées à des fins publicitaires ou marketing.</p>
+
+    <h3>Durée de conservation des données</h3>
+    <p>INGRID PARIS conservera les données ainsi recueillies pendant un délai de 2 ans suivant la dernière prestation commandée, à l'exception des données devant être conservées plus longtemps pour permettre à INGRID PARIS de respecter ses obligations comptables et fiscales.</p>
+    <p>Les bons de commandes et factures sont archivés sur un support fiable et pourront être utilisés comme élément de preuve des communications, commandes, paiements et transactions intervenues entre l'Utilisateur et INGRID PARIS.</p>
+
+    <h3>Sécurité et confidentialité</h3>
+    <p>INGRID PARIS met en œuvre des mesures organisationnelles, techniques, logicielles et physiques en matière de sécurité du numérique pour protéger les données personnelles contre les altérations, destructions et accès non autorisés. Toutefois il est à signaler qu'Internet n'est pas un environnement complètement sécurisé et INGRID PARIS ne peut garantir la sécurité de la transmission ou du stockage des informations sur Internet.</p>
+
+    <h3>Mise en œuvre des droits des Utilisateurs</h3>
+    <p>En application de la réglementation applicable aux données à caractère personnel, les Utilisateurs disposent des droits suivants qu'ils peuvent mettre en œuvre en écrivant à l'adresse indiquée ci-dessus (Ingrid Colas, 198 Avenue du Maine 75014 Paris – contact@ingrid-paris.com) :</p>
+    <ul>
+      <li>Ils peuvent demander la mise à jour ou la suppression des données qui les concernent,</li>
+      <li>Ils peuvent exercer leur droit d'accès pour connaître les données personnelles les concernant,</li>
+      <li>Ils peuvent demander la suppression de leurs données à caractère personnel, conformément aux lois applicables en matière de protection des données en envoyant un email à contact@ingrid-paris.com, ce qui ne saurait empêcher INGRID PARIS de respecter ses propres obligations comptables et fiscales,</li>
+      <li>Ils peuvent également solliciter la portabilité des données détenues par INGRID PARIS vers un autre prestataire,</li>
+      <li>Enfin, ils peuvent s'opposer au traitement de leurs données par INGRID PARIS, sauf en ce qui concerne l'exécution des prestations commandées.</li>
+    </ul>
+
+    <p>L'Utilisateur peut être invité à cocher une case au titre de laquelle il accepte de recevoir des mails à caractère informatifs et publicitaires de la part d'INGRID PARIS. Il aura toujours la possibilité de retirer son accord à tout moment en contactant INGRID PARIS à l'adresse mentionnée ci-dessus ou en suivant le lien de désabonnement.</p>
+
+    <h3>Système de paiement</h3>
+    <p>INGRID PARIS utilise un système de paiement sécurisé tiers ("le système de paiement" STRIPE). Le traitement des paiements ou des crédits éventuels découlant de l'utilisation du site et du service sera régi par les conditions et la politique de confidentialité du système de paiement partenaire d'INGRID PARIS et par les conditions de l'émetteur de la carte de crédit de l'Utilisateur. INGRID PARIS décline toute responsabilité en cas d'erreur due au système de paiement.</p>
+    <p>L'Utilisateur peut autoriser « le système de paiement » à conserver les données bancaires pour le compte d'INGRID PARIS afin de permettre le paiement des commandes ultérieures.</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Ingrid Paris - Tous droits réservés.</p>
+  </footer>
+</body>
+
+</html>

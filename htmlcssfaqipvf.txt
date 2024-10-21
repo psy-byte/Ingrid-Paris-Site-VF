@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - Ingrid Paris</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Montserrat:wght@200;300;400;500&display=swap');
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-image: url("https://github.com/psy-byte/IC-V3/blob/main/dark.jpg?raw=true");
+            background-size: cover;
+            background-position: center;
+            height: 20vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+            color: white;
+            position: relative;
+        }
+
+        .header::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 2.5em;
+            font-weight: 300;
+            margin: 0;
+        }
+
+        .slogan {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 200;
+            font-style: italic;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        h2 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 2em;
+            color: #502c3e;
+            margin-bottom: 30px;
+        }
+
+        h3 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.5em;
+            color: #502c3e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        p, ul {
+            margin-bottom: 15px;
+        }
+
+        footer {
+            background-color: #502c3e;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>INGRID PARIS</h1>
+            <p class="slogan">Une femme élégante est une femme détendue...</p>
+        </div>
+    </div>
+
+    <div class="content">
+        <h2>Foire Aux Questions</h2>
+
+        <h3>Quels types de massages proposez-vous ?</h3>
+        <p>Nous proposons une variété de massages incluant le massage californien, suédois, et lomi-lomi. Consultez notre page de services pour plus de détails.</p>
+
+        <h3>Faut-il prendre rendez-vous à l'avance ?</h3>
+        <p>Oui, il est recommandé de prendre rendez-vous au moins 24 heures à l'avance pour garantir la disponibilité.</p>
+
+        <h3>Comment puis-je réserver un massage ?</h3>
+        <p>Vous pouvez réserver en ligne via notre site web ou en nous appelant directement.</p>
+
+        <h3>Quelle est votre politique d'annulation ?</h3>
+        <p>Notre politique d'annulation permet une annulation sans frais jusqu'à 24 heures avant le rendez-vous. Pour plus de détails, consultez nos conditions générales de vente.</p>
+
+        <h3>Dois-je me déshabiller complètement ?</h3>
+        <p>Vous pouvez vous déshabiller au niveau qui vous convient. Vous serez toujours correctement drapé pendant le massage.</p>
+
+        <h3>Puis-je choisir la pression du massage ?</h3>
+        <p>Absolument. N'hésitez pas à communiquer vos préférences à votre masseuse avant et pendant le massage.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Ingrid Paris - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>

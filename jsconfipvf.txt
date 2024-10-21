@@ -1,0 +1,80 @@
+// JavaScript commun pour les pages légales
+document.addEventListener("DOMContentLoaded", function () {
+  // Fonction pour un défilement fluide vers les ancres
+  function smoothScroll(target, duration) {
+    var targetElement = document.querySelector(target);
+    var targetPosition = targetElement.getBoundingClientRect().top;
+    var startPosition = window.pageYOffset;
+    var distance = targetPosition - startPosition;
+    var startTime = null;
+
+    function animation(currentTime) {
+      if (startTime === null) startTime = currentTime;
+      var timeElapsed = currentTime - startTime;
+      var run = ease(timeElapsed, startPosition, distance, duration);
+      window.scrollTo(0, run);
+      if (timeElapsed < duration) requestAnimationFrame(animation);
+    }
+
+    function ease(t, b, c, d) {
+      t /= d / 2;
+      if (t < 1) return (c / 2) * t * t + b;
+      t--;
+      return (-c / 2) * (t * (t - 2) - 1) + b;
+    }
+
+    requestAnimationFrame(animation);
+  }
+
+  // Ajouter le défilement fluide à tous les liens internes
+  document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+    anchor.addEventListener("click", function (e) {
+      e.preventDefault();
+      smoothScroll(this.getAttribute("href"), 1000);
+    });
+  });
+
+  // Fonction pour afficher/masquer le bouton "Retour en haut"
+  function toggleBackToTopButton() {
+    var button = document.getElementById("back-to-top");
+    if (window.pageYOffset > 300) {
+      button.style.display = "block";
+    } else {
+      button.style.display = "none";
+    }
+  }
+
+  // Créer et ajouter le bouton "Retour en haut"
+  var backToTopButton = document.createElement("button");
+  backToTopButton.id = "back-to-top";
+  backToTopButton.innerHTML = "↑";
+  backToTopButton.style.display = "none";
+  document.body.appendChild(backToTopButton);
+
+  // Ajouter l'événement de clic au bouton "Retour en haut"
+  backToTopButton.addEventListener("click", function () {
+    smoothScroll("#top", 1000);
+  });
+
+  // Ajouter l'événement de défilement pour afficher/masquer le bouton
+  window.addEventListener("scroll", toggleBackToTopButton);
+});
+
+// JavaScript spécifique pour la Politique de Confidentialité
+document.addEventListener("DOMContentLoaded", function () {
+  // Fonction pour créer un accordéon
+  function createAccordion(element) {
+    element.addEventListener("click", function () {
+      this.classList.toggle("active");
+      var panel = this.nextElementSibling;
+      if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    });
+  }
+
+  // Appliquer l'accordéon à chaque section
+  document.querySelectorAll(".data-section h3").forEach(createAccordion);
+});
